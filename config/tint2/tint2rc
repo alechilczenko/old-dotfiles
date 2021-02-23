@@ -1,0 +1,253 @@
+# Tint2 config file
+m
+# Background definitions
+# ID 1
+rounded = 0
+border_width = 0
+background_color = #000000 87m
+border_color = #FFFFFF 13
+
+# ID 2
+rounded = 0
+border_width = 0
+background_color = #A674DE 40
+border_color = #A674DE 50
+
+# Panel
+panel_items = LTSE:E:E:E:E:E:B:C
+panel_monitor = all
+panel_position = top center horizontal
+panel_size = 100% 30
+panel_margin = 0 0
+panel_padding = 7 0 7
+panel_dock = 0
+wm_menu = 0
+panel_layer = top
+panel_background_id = 1
+
+# Panel Autohide
+autohide = 0
+autohide_show_timeout = 0.3
+autohide_hide_timeout = 2
+autohide_height = 2
+strut_policy = follow_size
+
+# Taskbar
+taskbar_mode = single_desktop
+taskbar_padding = 2 3 2
+taskbar_background_id = 0
+taskbar_active_background_id = 0
+
+# Tasks
+urgent_nb_of_blink = 8
+task_icon = 1
+task_text = 0
+task_centered = 1
+task_maximum_size = 32 35
+task_padding = 6 2
+task_background_id = 0
+task_active_background_id = 2
+task_urgent_background_id = 2
+task_iconified_background_id = 0
+
+# Task Icons
+task_icon_asb = 70 0 0
+task_active_icon_asb = 100 0 0
+task_urgent_icon_asb = 100 0 0
+task_iconified_icon_asb = 70 0 0
+
+# Fonts
+task_font = Source Code Pro Regular 9
+task_font_color = #FFFFFF 100
+task_active_font_color = #FFFFFF 100
+task_urgent_font_color = #FFFFFF 100
+task_iconified_font_color = #FFFFFF 100
+font_shadow = 0
+
+# System Tray
+systray = 1
+systray_padding = 0 4 5
+systray_sort = ascending
+systray_background_id = 0
+systray_icon_size = 16
+systray_icon_asb = 70 0 0
+
+# Clock
+time1_format = %H:%M
+time1_font = Source Code Pro Regular 9
+clock_font_color = #ffffff 100
+clock_tooltip = %A %d %B
+clock_padding = 0 0
+clock_background_id = 0
+
+# Tooltips
+tooltip = 1
+tooltip_padding = 2 2
+tooltip_show_timeout = 0.7
+tooltip_hide_timeout = 0.3
+tooltip_background_id = 1
+tooltip_font = Envy Code R 9
+tooltip_font_color = #FFFFFF 80
+
+# Mouse
+mouse_middle = none
+mouse_right = close
+mouse_scroll_up = toggle
+mouse_scroll_down = iconify
+
+# Battery
+tooltip = 1
+battery_low_status = 10
+battery_low_cmd = notify-send -u critical "Battery Status" "Battery low! "
+battery_full_cmd = notify-send -u low "Battery Status" "Battery full! "
+battery_hide = 0
+bat1_font = Source Code Pro Regular 9
+bat2_font = 
+bat1_format = %p
+battery_font_color = #FFFFFF 100
+battery_padding = 0 0
+battery_background_id = 0
+ac_connected_cmd = notify-send  "Battery Status" "Charging!"
+ac_disconnected_cmd = notify-send "Battery Status" "Charger disconnected."
+
+# Separador 1
+separator = new
+separator_background_id = 0
+separator_padding = 3 0
+separator_style = empty
+separator_color = #000000 87
+
+# Separador 2
+separator = new
+separator_background_id = 0
+separator_padding = 3 0
+separator_style = empty
+separator_color = #000000 87
+
+# Separador 3
+separator = new
+separator_background_id = 0
+separator_padding = 3 0
+separator_style = empty
+separator_color = #000000 87
+
+# Separador 4
+separator = new
+separator_background_id = 0
+separator_padding = 3 0
+separator_style = empty
+separator_color = #000000 87
+
+# Separador 5
+separator = new
+separator_background_id = 0
+separator_padding = 3 0
+separator_style = empty
+separator_color = #000000 87
+
+# Separador 6
+separator = new
+separator_background_id = 0
+separator_padding = 3 0
+separator_style = empty
+separator_color = #000000 87
+
+# Separador 7
+separator = new
+separator_background_id = 0
+separator_padding = 3 0
+separator_style = empty
+separator_color = #000000 87
+
+# Executor 0
+execp = new
+execp_command = xprop -root -spy | awk '/^_NET_CURRENT_DESKTOP/ { print "Workspace " ($3 + 1) ; fflush(); }'
+execp_interval = 1
+execp_continuous = 1
+execp_font = Source Code Pro Regular 9
+execp_font_color = #ffffff 100
+
+# Executor 1
+execp = new
+execp_command = df -h | awk '/\/$/ { print " "$3 "/" $2 "  "}'
+execp_interval = 0
+execp_has_icon = 0
+execp_cache_icon = 1
+execp_continuous = 0
+execp_markup = 1
+execp_tooltip = 
+execp_font = Source Code Pro Regular 9
+execp_font_color = #ffffff 100
+execp_padding = 0 0
+execp_background_id = 0
+execp_centered = 0
+execp_icon_w = 0
+execp_icon_h = 0
+
+# Executor 2
+execp = new
+execp_command = free --mega -h | awk '/^Mem:/ { print " " $3 "/" $2}'
+execp_interval = 2
+execp_has_icon = 0
+execp_cache_icon = 1
+execp_continuous = 0
+execp_markup = 1m
+execp_tooltip = 
+execp_font = Source Code Pro Regular 9
+execp_font_color = #ffffff 100
+execp_padding = 0 0
+execp_background_id = 0
+execp_centered = 0
+execp_icon_w = 0
+execp_icon_h = 0
+
+# Executor 3
+execp = new
+execp_command = sensors | awk '/Package id 0:/ { print " "$4   }'
+execp_interval = 1
+execp_has_icon = 0
+execp_cache_icon = 1
+execp_continuous = 0
+execp_markup = 1
+execp_tooltip = 
+execp_font = Source Code Pro Regular 9
+execp_font_color = #ffffff 100
+execp_padding = 0 0
+execp_background_id = 0
+execp_centered = 0
+execp_icon_w = 0
+execp_icon_h =m 0
+
+# Executor 4
+execp = new
+execp_command = volumeicon
+execp_interval = 1
+execp_has_icon = 0
+execp_cache_icon = 1
+execp_continuous = 0
+execp_markup = 1
+execp_tooltip = 
+execp_font = Source Code Pro Regular 9
+execp_font_color = #ffffff 100
+execp_padding = 0 0
+execp_background_id = 0
+execp_centered = 0
+execp_icon_w = 0
+execp_icon_h =m 0
+
+# Executor 5
+execp = new
+execp_command = pamixer --get-volume
+execp_interval = 1
+execp_has_icon = 0
+execp_cache_icon = 1
+execp_continuous = 0
+execp_markup = 1
+execp_tooltip = 
+execp_font = Source Code Pro Regular 9
+execp_font_color = #ffffff 100
+execp_padding = 0 0
+execp_background_id = 0
+execp_centered = 0
+execp_icon_w = 0
+execp_icon_h =m 0

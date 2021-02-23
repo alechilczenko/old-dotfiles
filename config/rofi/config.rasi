@@ -1,0 +1,4 @@
+configuration {
+	theme: "/usr/share/rofi/themes/dracula.rasi";
+	modi: "drun";
+}

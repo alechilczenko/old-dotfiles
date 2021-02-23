@@ -1,0 +1,27 @@
+[global_config]
+  geometry_hinting = True
+  inactive_color_offset = 0.90234375
+  title_use_system_font = False
+  title_font = Hack Nerd Font Mono Bold 10
+[keybindings]
+  paste = <Primary>v
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_darkness = 0.87
+    background_type = transparent
+    cursor_shape = ibeam
+    cursor_color = "#aaaaaa"
+    font = Source Code Pro Medium Italic 10
+    foreground_color = "#ffffff"
+    show_titlebar = False
+    palette = "#aaaaaa:#ff8aa4:#21f6bc:#fff787:#1bccfd:#e6aefe:#99d6fc:#ffffff:#aaaaaa:#ff8aa4:#21f6bc:#fff787:#1bccfd:#e6aefe:#99d6fc:#ffffff"
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
