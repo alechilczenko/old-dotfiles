@@ -1,11 +1,14 @@
 # Dotfiles 
 Welcome! These are my custom configuration files and software utilities for Arch Linux with I3 window manager.
+
 ![Screenshot](/Screenshots/1.png)
 ![Screenshot](/Screenshots/2.png)
 ![Screenshot](/Screenshots/3.png)
 ![Screenshot](/Screenshots/4.png)
 ![Screenshot](/Screenshots/5.png)
+
 ## Software
+
 [rofi](ttps://wiki.archlinux.org/index.php/Rofi) - Software launcher.    
 [tint2](https://wiki.archlinux.org/index.php/Tint2) - Lightweight and customizable bar.  
 [brightnessctl](https://aur.archlinux.org/packages/brightnessctl-git/) - Brightness control tool.  
@@ -25,6 +28,7 @@ Welcome! These are my custom configuration files and software utilities for Arch
 [feh](https://wiki.archlinux.org/index.php/Feh) - Set wallpapers.  
 
 ## Customization
+
 [Dracula GTK](https://draculatheme.com/gtk/)  
 [Terminal colors](https://draculatheme.com/terminal/)
 [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
