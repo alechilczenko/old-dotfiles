@@ -1,4 +1,4 @@
-# Dotfiles 
+# Dotfiles 🐧
 Welcome! These are my custom configuration files and software utilities for Arch Linux with I3 window manager.
 
 ![Screenshot](/Screenshots/1.png)
