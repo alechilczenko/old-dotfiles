@@ -31,8 +31,9 @@ Package                                        |            Description         
 ## Customization
 * [Dracula GTK](https://draculatheme.com/gtk/)  
 * [Terminal colors](https://draculatheme.com/terminal/)  
-* [Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)  
+* [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)  
 * [Dracula for visual studio code](https://draculatheme.com/visual-studio-code/)  
 * [Picom](https://wiki.archlinux.org/index.php/Picom)  
-* [Zsh](/https://wiki.archlinux.org/index.php/Zsh)
+* [Zsh](/https://wiki.archlinux.org/index.php/Zsh)  
+* [lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/)
 
