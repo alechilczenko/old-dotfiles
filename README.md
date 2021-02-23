@@ -35,5 +35,5 @@ Package                                        |            Description         
 * [Dracula for visual studio code](https://draculatheme.com/visual-studio-code/)  
 * [Picom](https://wiki.archlinux.org/index.php/Picom)  
 * [Zsh](/https://wiki.archlinux.org/index.php/Zsh)  
-* [lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/)
+* [Lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/)
 
