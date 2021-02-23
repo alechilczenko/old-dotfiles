@@ -30,8 +30,8 @@ Welcome! These are my custom configuration files and software utilities for Arch
 ## Customization
 
 [Dracula GTK](https://draculatheme.com/gtk/)  
-[Terminal colors](https://draculatheme.com/terminal/)
-[Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+[Terminal colors](https://draculatheme.com/terminal/)  
+[Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)  
 [Dracula for visual studio code](https://draculatheme.com/visual-studio-code/)  
 [Picom](https://wiki.archlinux.org/index.php/Picom)  
 [Zsh](/https://wiki.archlinux.org/index.php/Zsh)
