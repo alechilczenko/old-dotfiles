@@ -9,7 +9,7 @@ Welcome! These are my custom configuration files and software utilities for Arch
 
 ## Software
 
-[rofi](ttps://wiki.archlinux.org/index.php/Rofi) - Software launcher.    
+[rofi](https://wiki.archlinux.org/index.php/Rofi) - Software launcher.    
 [tint2](https://wiki.archlinux.org/index.php/Tint2) - Lightweight and customizable bar.  
 [brightnessctl](https://aur.archlinux.org/packages/brightnessctl-git/) - Brightness control tool.  
 [thunar](https://wiki.archlinux.org/index.php/Thunar) - Graphical file manager.  
