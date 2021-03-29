@@ -1,10 +1,7 @@
 # Dotfiles 🐧
 Welcome! These are my custom configuration files and software utilities for Arch Linux, with I3 window manager.
-
 Here you can encounter the list of software that I use daily, and another customization themes.
-
-Also I made a simple python script named RWAL that select and put a random wallpaper from a folder, in this folder you can see my wallpapers.
-
+Also I made a simple python script named RWAL that select and put a random wallpaper from a folder, in this folder you can see my wallpapers, open this file and change my path.
 I'm thinking about another features i will add later, like a customized lock screen. 
 ![Screenshot](/Screenshots/1.png)
 ![Screenshot](/Screenshots/2.png)
