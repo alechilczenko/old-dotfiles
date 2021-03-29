@@ -4,7 +4,7 @@ Here you can encounter the list of software that I use daily, and another custom
 
 Also I made a simple python script named RWAL that select and put a random wallpaper from a folder, in this folder you can see my wallpapers, open this file and change my path.
 
-I'm thinking about another features i will add later, like a customized lock screen. 
+I'm thinking about another features I will add later, like a customized lock screen. 
 ![Screenshot](/Screenshots/1.png)
 ![Screenshot](/Screenshots/2.png)
 ![Screenshot](/Screenshots/3.png)
