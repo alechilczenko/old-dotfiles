@@ -9,7 +9,6 @@ I'm thinking about another features I will add later, like a customized lock scr
 ![Screenshot](/Screenshots/2.png)
 ![Screenshot](/Screenshots/3.png)
 ![Screenshot](/Screenshots/4.png)
-![Screenshot](/Screenshots/5.png)
 
 ## Software
 Package                                        |            Description                |
