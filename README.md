@@ -1,5 +1,5 @@
 # Dotfiles 🐧
-Welcome! These are my custom configuration files and software utilities for Arch Linux, with I3 window manager.
+Welcome! These are my custom configuration files and software for Arch Linux, with I3 window manager.
 Here you can encounter the list of software that I use daily, and another customization themes.
 
 Also I made a simple python script named RWAL that select and put a random wallpaper from a folder, in this folder you can see my wallpapers, open this file and change my path.
@@ -21,18 +21,19 @@ Package                                        |            Description         
 [termite](https://wiki.archlinux.org/index.php/Termite)|Terminal emulator|
 [firefox](https://wiki.archlinux.org/index.php/Firefox)|Web browser|
 [ranger](https://wiki.archlinux.org/index.php/Ranger)|CLI file manager|
-[nano](https://wiki.archlinux.org/index.php/Nano)|Mininal text editor|
+[nano](https://wiki.archlinux.org/index.php/Nano)|Mininal code editor|
 [pamix](https://aur.archlinux.org/packages/pamix-git/)|Pulseaudio terminal mixer|
 [flameshot](https://wiki.archlinux.org/index.php/Flameshot)|Take screenshots|
 [geequie](https://archlinux.org/packages/extra/x86_64/geeqie/)|Image viewer|
 [vlc](https://wiki.archlinux.org/index.php/VLC_media_player)|Multimedia player|
 [bashtop](https://github.com/aristocratos/bashtop)|System monitor|
-[vscode](https://wiki.archlinux.org/index.php/Visual_Studio_Code)|Graphical text editor|
+[vscode](https://wiki.archlinux.org/index.php/Visual_Studio_Code)|Graphical code editor|
 [feh](https://wiki.archlinux.org/index.php/Feh)|Set wallpapers|
 [Qpdfview](https://archlinux.org/packages/community/x86_64/qpdfview/)|Visualize documents|
 
 ## Customization
-* [Dracula GTK](https://draculatheme.com/gtk/)  
+* [Dracula GTK](https://draculatheme.com/gtk/)
+* [Pywal](https://github.com/dylanaraps/pywal) 
 * [Terminal colors](https://draculatheme.com/terminal/)  
 * [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)  
 * [Dracula for visual studio code](https://draculatheme.com/visual-studio-code/)  
