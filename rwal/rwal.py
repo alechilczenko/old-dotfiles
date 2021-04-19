@@ -1,20 +1,28 @@
 #Set a random wallpaper easy!
 import random
 import os
+from colorama import Fore
 
-def random_image():
-    wallpaper_list = os.listdir('/home/intrackeable/Documentos/CLI/rwal/images')
+global red, green
+red = Fore.RED
+
+def get_random_image(path):
+    wallpaper_list = os.listdir(path)
     if not wallpaper_list:
-        print('No se encontraron fondos de pantalla en esta carpeta')
+        print('{}WALLPAPERS NOT FOUND IN THIS FOLDER'.format(red))
         exit()
     else:
-        image = random.choice(wallpaper_list)
+        image = path + random.choice(wallpaper_list)
         return image
 
-def set_wallpaper():
-    command = 'feh --bg-scale /home/intrackeable/Documentos/CLI/rwal/images/' + random_image()
-    change = os.system(command)
-    return change
+def get_wallpaper(path):
+    wallpaper = get_random_image(path) 
+    command = 'clear & feh --bg-scale {} & wal -i {}'.format(wallpaper,wallpaper)
+    os.system(command)
 
-set_wallpaper()
+def main():
+    path = '/home/intrackeable/Documentos/CLI/rwal/images/'
+    get_wallpaper(path)
 
+if __name__ == '__main__':
+    main()
