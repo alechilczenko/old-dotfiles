@@ -17,7 +17,7 @@ def get_random_image(path):
 
 def get_wallpaper(path):
     wallpaper = get_random_image(path) 
-    command = 'clear & feh --bg-scale {} & wal -i {}'.format(wallpaper,wallpaper)
+    command = 'clear & feh --bg-fill {} & wal -i {}'.format(wallpaper,wallpaper)
     os.system(command)
 
 def main():
