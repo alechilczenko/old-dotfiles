@@ -14,13 +14,11 @@ I'm thinking about another features I will add later, like a customized lock scr
 Package                                        |            Description                |
 -----------------------------------------------|---------------------------------------|
 [rofi](https://wiki.archlinux.org/index.php/Rofi)|Software launcher                     |
-[tint2](https://wiki.archlinux.org/index.php/Tint2)|Lightweight and customizable bar.  |
-[brightnessctl](https://aur.archlinux.org/packages/brightnessctl-git/)|Brightness control tool|
+[tint2](https://wiki.archlinux.org/index.php/Tint2)|Lightweight and customizable bar  |
 [thunar](https://wiki.archlinux.org/index.php/Thunar)|Graphical file manager|
 [neofetch](https://github.com/dylanaraps/neofetch)|System information tool|
 [termite](https://wiki.archlinux.org/index.php/Termite)|Terminal emulator|
 [firefox](https://wiki.archlinux.org/index.php/Firefox)|Web browser|
-[ranger](https://wiki.archlinux.org/index.php/Ranger)|CLI file manager|
 [nano](https://wiki.archlinux.org/index.php/Nano)|Mininal code editor|
 [pamix](https://aur.archlinux.org/packages/pamix-git/)|Pulseaudio terminal mixer|
 [flameshot](https://wiki.archlinux.org/index.php/Flameshot)|Take screenshots|
@@ -29,7 +27,8 @@ Package                                        |            Description         
 [bashtop](https://github.com/aristocratos/bashtop)|System monitor|
 [vscode](https://wiki.archlinux.org/index.php/Visual_Studio_Code)|Graphical code editor|
 [feh](https://wiki.archlinux.org/index.php/Feh)|Set wallpapers|
-[Qpdfview](https://archlinux.org/packages/community/x86_64/qpdfview/)|Visualize documents|
+[qpdfview](https://archlinux.org/packages/community/x86_64/qpdfview/)|Visualize documents|
+[brightnessctl](https://aur.archlinux.org/packages/brightnessctl-git/)|Brightness control tool|
 
 ## Customization
 * [Dracula GTK](https://draculatheme.com/gtk/)
@@ -38,6 +37,7 @@ Package                                        |            Description         
 * [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)  
 * [Dracula for visual studio code](https://draculatheme.com/visual-studio-code/)  
 * [Picom](https://wiki.archlinux.org/index.php/Picom)  
-* [Zsh](/https://wiki.archlinux.org/index.php/Zsh)  
+* [Zsh](/https://wiki.archlinux.org/index.php/Zsh)
+* [Autotiling](https://github.com/nwg-piotr/autotiling)
 * [Lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/)
 
