@@ -37,10 +37,11 @@ Package                                        |            Description         
 * [Pywal](https://github.com/dylanaraps/pywal) 
 * [Terminal colors](https://draculatheme.com/terminal/)  
 * [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)  
-* [Dracula for VScode](https://draculatheme.com/visual-studio-code/)
+* [Aurora X for VScode](https://marketplace.visualstudio.com/items?itemName=marqu3s.aurora-x)
 * [Picom](https://wiki.archlinux.org/index.php/Picom)  
 * [Zsh](/https://wiki.archlinux.org/index.php/Zsh)
 * [Autotiling](https://github.com/nwg-piotr/autotiling)
 * [Lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/)
 * [Papirus Folders Script](https://github.com/PapirusDevelopmentTeam/papirus-folders)
+* [Tabliss](https://tabliss.io/)
 
