@@ -2,9 +2,8 @@
 Welcome! These are my custom configuration files and software for Arch Linux, with I3 window manager.
 Here you can encounter the list of software that I use daily, and another customization themes.
 
-Also I made a simple python script named RWAL that select a random wallpaper from a folder and change terminal theme with Pywal automatically. All of my favorite wallpapers are uploaded in this folder.
+Also I made a simple python script named RWAL that select random wallpaper from a folder and change background easy. All of my favorite wallpapers are uploaded in this folder.
 
-I'm thinking about another features I will add later, like a customized lock screen. 
 ![Screenshot](/Pictures/1.png)
 ![Screenshot](/Pictures/2.png)
 ![Screenshot](/Pictures/3.png)
