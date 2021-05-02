@@ -34,7 +34,7 @@ Package                                        |            Description         
 ## Customization
 * [Dracula GTK](https://draculatheme.com/gtk/)
 * [Pywal](https://github.com/dylanaraps/pywal) 
-* [Terminal colors](https://draculatheme.com/terminal/)  
+* [Terminal Colors](https://draculatheme.com/terminal/)  
 * [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)  
 * [Aurora X for VScode](https://marketplace.visualstudio.com/items?itemName=marqu3s.aurora-x)
 * [Picom](https://wiki.archlinux.org/index.php/Picom)  
