@@ -38,7 +38,7 @@ Package                                        |            Description         
 * [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)  
 * [Aurora X for VScode](https://marketplace.visualstudio.com/items?itemName=marqu3s.aurora-x)
 * [Picom](https://wiki.archlinux.org/index.php/Picom)  
-* [Zsh](/https://wiki.archlinux.org/index.php/Zsh)
+* [Zsh](https://wiki.archlinux.org/index.php/Zsh)
 * [Autotiling](https://github.com/nwg-piotr/autotiling)
 * [Lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/)
 * [Papirus Folders Script](https://github.com/PapirusDevelopmentTeam/papirus-folders)
