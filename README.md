@@ -1,5 +1,5 @@
 # Dotfiles 🐧
-Welcome! These are my custom configuration files and software for Arch Linux, with I3 window manager.
+Welcome! These are my configuration files for Arch Linux, with I3 tiling window manager.
 Here you can encounter the list of software that I use daily, and another customization themes.
 
 Also I made a simple python script named RWAL that select random wallpaper from a folder and change background easy. All of my favorite wallpapers are uploaded in this folder.
