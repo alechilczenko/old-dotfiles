@@ -19,7 +19,7 @@ Package                                        |            Description         
 [neofetch](https://github.com/dylanaraps/neofetch)|System information tool|
 [termite](https://wiki.archlinux.org/index.php/Termite)|Terminal emulator|
 [firefox](https://wiki.archlinux.org/index.php/Firefox)|Web browser|
-[nano](https://wiki.archlinux.org/index.php/Nano)|Mininal code editor|
+[nano](https://wiki.archlinux.org/index.php/Nano)|Minimal code editor|
 [pavucontrol](https://archlinux.org/packages/extra/x86_64/pavucontrol/)|Pulseaudio control|
 [flameshot](https://wiki.archlinux.org/index.php/Flameshot)|Take screenshots|
 [geequie](https://archlinux.org/packages/extra/x86_64/geeqie/)|Image viewer|
