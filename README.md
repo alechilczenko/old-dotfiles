@@ -1,14 +1,10 @@
 # Dotfiles 🐧
+![Screenshot](/Pictures/s.png)
+
 Welcome! These are my configuration files for Arch Linux, with I3 tiling window manager.
 Here you can encounter the list of software that I use daily, and another customization themes.
 
 Also I made a simple python script named RWAL that select random wallpaper from a folder and change background easy. All of my favorite wallpapers are uploaded in this folder.
-
-![Screenshot](/Pictures/s.png)
-![Screenshot](/Pictures/o.png)
-![Screenshot](/Pictures/3.png)
-![Screenshot](/Pictures/4.png)
-![Screenshot](/Pictures/5.png)
 
 ## Software
 Package                                        |            Description                |
@@ -37,10 +33,12 @@ Package                                        |            Description         
 * [Terminal Colors](https://draculatheme.com/terminal/)  
 * [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)  
 * [Aurora X for VScode](https://marketplace.visualstudio.com/items?itemName=marqu3s.aurora-x)
-* [Picom](https://wiki.archlinux.org/index.php/Picom)  
+* [Picom [FORK]](https://aur.archlinux.org/packages/picom-tryone-git)  
 * [Zsh](https://wiki.archlinux.org/index.php/Zsh)
 * [Autotiling](https://github.com/nwg-piotr/autotiling)
 * [Lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/)
 * [Papirus Folders Script](https://github.com/PapirusDevelopmentTeam/papirus-folders)
 * [Tabliss](https://tabliss.io/)
+* [Rofi WIFI Menu](https://github.com/zbaylin/rofi-wifi-menu)
+* [Rofi Bluetooth](https://github.com/nickclyde/rofi-bluetooth)
 
