@@ -21,7 +21,7 @@ def get_wallpaper(path):
     os.system(command)
 
 def main():
-    path = '/home/intrackeable/Documentos/CLI/rwal/images/'
+    path = '/home/intrackeable/.scripts/rwal/images/'
     get_wallpaper(path)
 
 if __name__ == '__main__':
