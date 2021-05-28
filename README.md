@@ -4,8 +4,8 @@ Here you can encounter the list of software that I use daily, and another custom
 
 Also I made a simple python script named RWAL that select random wallpaper from a folder and change background easy. All of my favorite wallpapers are uploaded in this folder.
 
-![Screenshot](/Pictures/1.png)
-![Screenshot](/Pictures/2.png)
+![Screenshot](/Pictures/s.png)
+![Screenshot](/Pictures/o.png)
 ![Screenshot](/Pictures/3.png)
 ![Screenshot](/Pictures/4.png)
 ![Screenshot](/Pictures/5.png)
