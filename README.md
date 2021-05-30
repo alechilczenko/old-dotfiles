@@ -1,5 +1,5 @@
 # Dotfiles 🐧
-![Screenshot](/screenshots/s.png)
+![Screenshot](/screenshots/1.png)
 
 Welcome! These are my configuration files for Arch Linux, with I3 tiling window manager.
 Here you can encounter the list of software that I use daily, and another customization themes.
@@ -41,4 +41,10 @@ Package                                        |            Description         
 * [Tabliss](https://tabliss.io/)
 * [Rofi WIFI Menu](https://github.com/zbaylin/rofi-wifi-menu)
 * [Rofi Bluetooth](https://github.com/nickclyde/rofi-bluetooth)
+
+## Screenshots
+![Screenshot](/screenshots/2.png)
+![Screenshot](/screenshots/3.png)
+![Screenshot](/screenshots/5.png)
+![Screenshot](/screenshots/4.png)
 
