@@ -1,5 +1,5 @@
 # Dotfiles 🐧
-![Screenshot](/Pictures/s.png)
+![Screenshot](/screenshots/s.png)
 
 Welcome! These are my configuration files for Arch Linux, with I3 tiling window manager.
 Here you can encounter the list of software that I use daily, and another customization themes.
