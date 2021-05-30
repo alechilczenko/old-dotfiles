@@ -1,2 +1,4 @@
 include /usr/share/nano/sh.nanorc
 include /usr/share/nano/python.nanorc
+include "/usr/share/nano/java.nanorc"
+
