@@ -7,7 +7,6 @@ Here you can encounter the list of software that I use daily, and another custom
 Also I made a simple python script named RWAL that select random wallpaper from a folder and change background easy. All of my favorite wallpapers are uploaded in this folder.
 
 ## Essential Software
-- [i3-gaps](https://github.com/Airblader/i3) - Tiling window manager
 - [polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [thunar](https://github.com/xfce-mirror/thunar) - Modern, fast and easy-to-use file manager
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator
