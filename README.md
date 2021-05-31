@@ -7,14 +7,13 @@ Here you can encounter the list of software that I use daily, and another custom
 Also I made a simple python script named RWAL that select random wallpaper from a folder and change background easy. All of my favorite wallpapers are uploaded in this folder.
 
 ## Essential Software
-- [i3-gaps](https://github.com/Airblader/i3) - Tiling window manager
 - [polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [thunar](https://github.com/xfce-mirror/thunar) - Modern, fast and easy-to-use file manager
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator
 - [firefox](https://archlinux.org/packages/extra/x86_64/firefox/) - Standalone web browser from mozilla.org
 - [rofi](https://github.com/davatorium/rofi) - Window switcher, application launcher and dmenu replacement
- -[bluetooth](https://github.com/nickclyde/rofi-bluetooth) - Script that generates a rofi menu that uses bluetoothctl
- -[wifi](https://github.com/zbaylin/rofi-wifi-menu) - Bash script using nmcli and rofi to make a wifi menu
+  - [bluetooth](https://github.com/nickclyde/rofi-bluetooth) - Script that generates a rofi menu that uses bluetoothctl
+  - [wifi](https://github.com/zbaylin/rofi-wifi-menu) - Bash script using nmcli and rofi to make a wifi menu
 - [vscode](https://github.com/microsoft/vscode) - Visual studio code editor
 - [zsh](https://github.com/zsh-users/zsh) - extended bourne shell with a large number of improvements
 - [qpdfview](https://github.com/bendikro/qpdfview) - A tabbed PDF viewer using the poppler library
