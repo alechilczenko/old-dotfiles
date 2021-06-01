@@ -35,7 +35,8 @@ Also I made a simple python script named RWAL that select random wallpaper from 
 - [autotiling](https://github.com/nwg-piotr/autotiling) - Script that automatically switch the horizontal / vertical window split orientation
 - [feh](https://github.com/derf/feh) - Fast image viewer and wallpaper setter
 - [lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/) - GTK theme switcher
-- [papirus folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) - Allows to change the color of folders 
+- [papirus folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) - Allows to change the color of folders
+- [i3lock](https://github.com/guimeira/i3lock-fancy-multimonitor) - Blurry lock screen for i3lock with multimonitor support
 
 ## Screenshots
 ![Screenshot](/screenshots/2.png)
