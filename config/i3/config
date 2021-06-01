@@ -21,7 +21,7 @@ font pango:Source Code Pro Regular 9
 # and nm-applet is a desktop environment-independent system tray GUI for it.
 exec --no-startup-id nm-applet
 
-# Habilitando Pamixer
+# Enabling pamixer
 bindsym F5 exec --no-startup-id pamixer --decrease 5
 bindsym F6 exec --no-startup-id pamixer --increase 5
 
@@ -70,7 +70,7 @@ bindsym $mod+m fullscreen toggle
 # change container layout (stacked, tabbed, toggle split)
 bindsym $mod+j layout stacking
 bindsym $mod+k layout tabbed
-bindsym $mod+l layout toggle split
+bindsym $mod+g layout toggle split
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
@@ -141,7 +141,7 @@ bindsym $mod+t exec thunar
 bindsym $mod+y exec code
 bindsym $mod+r exec python $HOME/.scripts/rwal/rwal.py
 bindsym $mod+w exec $HOME/.scripts/rofi-wifi-menu/rofi-wifi-menu.sh
-
+bindsym $mod+l exec $HOME/.scripts/i3lock/lock
 
 #bindsym $mod+r mode "resize"
 
@@ -151,13 +151,13 @@ exec --no-startup-id picom --experimental-backends -b
 exec_always --no-startup-id bash $HOME/.config/polybar/cuts/launch.sh
 exec_always --no-startup-id autotiling 
 
-# Eliminar bordes
+# Remove title from windows
 for_window [class="^.*"] border pixel 3
 new_window pixel 3
 
-# Espacio entre ventanas
+# Space between windows
 gaps inner 6
 gaps outer 6
 
-# Cambiar color borde ventana enfocada
+# Focused window color
 client.focused  #da2263 #d70a53 #ffffff #da2263
