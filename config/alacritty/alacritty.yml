@@ -45,4 +45,11 @@ window:
 cursor:
   style:
     shape: Beam
-    
+
+key_bindings:
+  - { key: V, mods: Control, action: Paste              }
+  - { key: C, mods: Control, action: Copy               }
+  - { key: Up, mods: Shift, action: ScrollPageUp        }
+  - { key: Down, mods: Shift, action: ScrollPageDown    }
+  - { key: Up, mods: Control, action: ScrollToTop       }
+  - { key: Down,  mods: Control, action: ScrollToBottom }
