@@ -31,7 +31,7 @@ Also I made a simple python script named RWAL that select random wallpaper from 
 ## Customization
 - [dracula](https://github.com/dracula/gtk) - Dark theme for GTK
 - [papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux 
-- [picom [FORK]](https://aur.archlinux.org/packages/picom-tryone-git) - A lightweight compositor for X11
+- [picom [FORK]](https://github.com/ibhagwan/picom) - A lightweight compositor for X11
 - [autotiling](https://github.com/nwg-piotr/autotiling) - Script that automatically switch the horizontal / vertical window split orientation
 - [feh](https://github.com/derf/feh) - Fast image viewer and wallpaper setter
 - [lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/) - GTK theme switcher
