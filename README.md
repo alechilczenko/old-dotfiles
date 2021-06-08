@@ -41,6 +41,6 @@ Also I made a simple python script named RWAL that select random wallpaper from 
 ## Screenshots
 ![Screenshot](/screenshots/2.png)
 ![Screenshot](/screenshots/3.png)
-![Screenshot](/screenshots/5.png)
 ![Screenshot](/screenshots/4.png)
+![Screenshot](/screenshots/5.png)
 
