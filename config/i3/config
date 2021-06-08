@@ -13,6 +13,7 @@ exec --no-startup-id nm-applet
 # Enabling pamixer
 bindsym F5 exec --no-startup-id pamixer --decrease 5
 bindsym F6 exec --no-startup-id pamixer --increase 5
+bindsym F3 exec --no-startup-id pamixer -t
 
 # Take screenshot
 bindsym $mod+s exec --no-startup-id flameshot gui
@@ -130,16 +131,20 @@ bindsym $mod+b exec --no-startup-id rofi-bluetooth
 # Apps on startup
 exec --no-startup-id feh --bg-scale $HOME/.scripts/rwal/images/9.png
 exec_always --no-startup-id picom --experimental-backends -b
-exec_always --no-startup-id bash $HOME/.config/polybar/cuts/launch.sh
+exec_always --no-startup-id bash $HOME/.config/polybar/launch.sh
 exec_always --no-startup-id autotiling 
 
 # Eliminate title window
-for_window [class="^.*"] border pixel 3
-new_window pixel 3
+for_window [class="^.*"] border pixel 2
+new_window pixel 2
 
 # Space between windows
 gaps inner 6
 gaps outer 6
 
 # Change window focused color
-client.focused  #da2263 #d70a53 #ffffff #da2263
+client.focused          #da2263 #d70a53 #ffffff #da2263   #da2263
+client.focused_inactive #2E1A47 #5f676a #ffffff #371f55   #371f55
+client.unfocused        #2E1A47 #222222 #888888 #292d2e   #371f55
+client.urgent           #2E1A47 #900000 #ffffff #900000   #371f55
+client.placeholder      #2E1A47 #0c0c0c #ffffff #000000   #371f55
