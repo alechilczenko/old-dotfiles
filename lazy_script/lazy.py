@@ -36,7 +36,7 @@ class Ricer:
         subprocess.call('i3-msg restart', shell=True)
     
     def replace_gaps(self):
-        if (self.gaps > 0 and self.gaps < 30):
+        if (self.gaps >= 0 and self.gaps <= 30):
 
             config = open(self.wm_path).read().splitlines()
 
