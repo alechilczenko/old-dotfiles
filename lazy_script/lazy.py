@@ -15,7 +15,6 @@ class Ricer:
     def search_images(self):
         files = os.listdir(self.wallpaper_path)
         images = []
-
         for file in files:
             if file.endswith('png') or file.endswith('jpeg') or file.endswith('jpg'):
                 images.append(file)
@@ -41,10 +40,8 @@ class Ricer:
             config = open(self.wm_path).read().splitlines()
 
             for index, element in enumerate(config):
-
                 if element.startswith('gaps inner'):
                     config[index] = 'gaps inner {}'.format(self.gaps)
-
                 if element.startswith('gaps outer'):
                     config[index] = 'gaps outer {}'.format(self.gaps)
 
