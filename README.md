@@ -1,10 +1,8 @@
 # Dotfiles 🐧
 ![Screenshot](/screenshots/1.png)
 
-Welcome! These are my configuration files for Arch Linux, with I3 WM.
+Welcome! These are my configuration files for Arch Linux, with [I3-GAPS](https://github.com/Airblader/i3) window manager.
 Here you can encounter the list of software that I use daily, and another customization themes.
-
-Also I made a simple python script named RWAL that select random wallpaper from a folder and change background easy. All of my favorite wallpapers are uploaded in this folder.
 
 ## Essential Software
 - [polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -37,6 +35,9 @@ Also I made a simple python script named RWAL that select random wallpaper from 
 - [lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/) - GTK theme switcher
 - [papirus folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) - Allows to change the color of folders
 - [i3lock](https://github.com/guimeira/i3lock-fancy-multimonitor) - Blurry lock screen for i3lock with multimonitor support
+
+## The Lazy Script
+I also made a small python script that automatically changes the gaps and select a random wallpaper, finally reloads the I3 configuration. You can assign a keyboard shortcut to do this faster.
 
 ## Screenshots
 ![Screenshot](/screenshots/2.png)
