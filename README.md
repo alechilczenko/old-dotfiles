@@ -39,6 +39,10 @@ Here you can encounter the list of software that I use daily, and another custom
 ## The Lazy Script
 I also made a small python script that automatically changes the gaps and select a random wallpaper, finally reloads the I3 configuration. You can assign a keyboard shortcut to do this faster.
 
+## How to install ?
+How to install ?
+Use my little [shell script](https://github.com/intrackeable/dotfiles/blob/main/scripts/auto_install.sh), it will automatically install many of the applications and copy the configuration files to your folders. Note: the script is not complete, some things must be done manually.
+
 ## Screenshots
 ![Screenshot](/screenshots/2.png)
 ![Screenshot](/screenshots/3.png)
