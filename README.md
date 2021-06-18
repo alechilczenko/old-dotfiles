@@ -25,6 +25,7 @@ Here you can encounter the list of software that I use daily, and another custom
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation 
 - [asciiquarium](https://github.com/cmatsuoka/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
+- [cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa
 
 ## Customization
 - [dracula](https://github.com/dracula/gtk) - Dark theme for GTK
