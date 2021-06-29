@@ -16,7 +16,7 @@ Here you can encounter the list of software that I use daily, and another custom
 - [zsh](https://github.com/zsh-users/zsh) - extended bourne shell with a large number of improvements
 - [qpdfview](https://github.com/bendikro/qpdfview) - A tabbed PDF viewer using the poppler library
 - [geeqie](https://github.com/BestImageViewer/geeqie) - Claiming to be the best image viewer / photo collection browser
-- [nano](https://wiki.archlinux.org/title/Nano) - Simple text and code editor
+- [neovim](https://github.com/neovim/neovim) - Vim fork focused on extensibility and and usability.
 - [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
 
 ##  Funny Stuff
