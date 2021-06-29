@@ -25,6 +25,7 @@ Here you can encounter the list of software that I use daily, and another custom
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation 
 - [asciiquarium](https://github.com/cmatsuoka/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
+- [cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa
 
 ## Customization
 - [dracula](https://github.com/dracula/gtk) - Dark theme for GTK
@@ -37,7 +38,10 @@ Here you can encounter the list of software that I use daily, and another custom
 - [i3lock](https://github.com/guimeira/i3lock-fancy-multimonitor) - Blurry lock screen for i3lock with multimonitor support
 
 ## The Lazy Script
-I also made a small python script that automatically changes the gaps and select a random wallpaper, finally reloads the I3 configuration. You can assign a keyboard shortcut to do this faster.
+I also made a small [python script](https://github.com/intrackeable/dotfiles/tree/main/lazy_script) that automatically changes the gaps and select a random wallpaper, finally reloads the I3 configuration. You can assign a keyboard shortcut to do this faster.
+
+## How to install ?
+Use my little [shell script](https://github.com/intrackeable/dotfiles/blob/main/scripts/auto_install.sh), it will automatically install many of the applications and copy the configuration files to your folders. Note: the script is not complete, some things must be done manually.
 
 ## Screenshots
 ![Screenshot](/screenshots/2.png)
